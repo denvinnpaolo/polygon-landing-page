@@ -2,4 +2,4 @@
 Rebranding the DuckDuckGo website using Polygon design elements.
 
 # Table of Contents
-[Title/Description](#Polygon Landing Page)
+[Title/Description](#PolygonLandingPage)
